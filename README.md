@@ -1,5 +1,5 @@
 # TiendaDeportes
-Basic sporting goods ttore's sales application for client, product and payment management.
+Basic sporting goods store's sales application for client, product and payment management.
 
 ## Table of contents
 * [General Info](#general-info)
