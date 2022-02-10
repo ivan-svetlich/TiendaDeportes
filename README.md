@@ -41,4 +41,6 @@ The application is comprised of four modules: Products, Sales, Credit Cards and 
 * See total spent by credit card.
 
 ## UML
+Click on image to zoom in.
+
 ![UML](https://github.com/ivan-svetlich/TiendaDeportes/blob/master/UML.png)
