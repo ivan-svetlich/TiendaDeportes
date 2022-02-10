@@ -18,24 +18,24 @@ Desktop application designed as Final Project for the 'Object-oriented Programmi
 ## Modules
 The application is comprised of four modules: Products, Sales, Credit Cards and Information. Each module's features are listed bellow:
 
-#### Products module
+### Products module
 * Add products to store.
 * Set discounts.
 * See products list.
 * See discounts list.
 
-#### Sales module:
+### Sales module:
 * Add products to cart.
 * Identify client.
 * Checkout.
 
-#### Credit cards module:
+### Credit cards module:
 * Add credit card.
 * Set discount for credit card.
 * See list of available credit cards.
 * See list of credit cards that offer discounts.
 
-#### Information module:
+### Information module:
 * See store's total income.
 * See total spent by client.
 * See total spent by credit card.
