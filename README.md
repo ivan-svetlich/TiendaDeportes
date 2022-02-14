@@ -10,7 +10,7 @@ Basic sporting goods store's sales application for client, product and payment m
 ## General Info
 Desktop application designed as Final Project for the 'Object-oriented Programming Fundamentals' Course (Escuela de Posgrado, Facultad de Ingeniería, UNLP).
 
-![tiendaDeportes](https://github.com/ivan-svetlich/TiendaDeportes/blob/master/images/tiendaDeportes.png)
+![tiendaDeportes](https://github.com/ivan-svetlich/TiendaDeportes/blob/master/images/screenshot.png)
 
 ## Technologies
 ### This project is created with:
