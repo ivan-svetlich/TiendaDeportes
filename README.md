@@ -13,7 +13,7 @@ Desktop application designed as Final Project for the 'Object-oriented Programmi
 ![tiendaDeportes](https://github.com/ivan-svetlich/TiendaDeportes/blob/master/images/screenshot.png)
 
 ## Technologies
-### This project is created with:
+### This project was created with:
 * C# .NET Core 3.1
 * Windows Forms
 
