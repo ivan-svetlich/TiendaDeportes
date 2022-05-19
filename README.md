@@ -1,4 +1,4 @@
-# TiendaDeportes
+# Sporting Goods Store - Desktop App
 Basic sporting goods store's sales application for client, product and payment management.
 
 ## Table of contents
